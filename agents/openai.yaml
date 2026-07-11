@@ -1,0 +1,4 @@
+interface:
+  display_name: "人生决策"
+  short_description: "从人生关键节点识别重复模式，并形成有个人证据的决策建议"
+  default_prompt: "使用 $life-skill 梳理我的人生关键节点，并帮助我分析当前困境。"
